@@ -72,6 +72,11 @@ Below are selected visual outputs from the analysis.
 
   ![Greeks 3D](plots/greeks_3d.png)
 
+- **Implied Volatility Surface**  
+  3D implied volatility surface with synthetic equity-style negative skew and term structure.
+
+  ![IV Surface](plots/implied_vol_3d.png)
+  
 ---
 
 ## User Guide
